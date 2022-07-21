@@ -1,0 +1,51 @@
+[
+    {
+        "id":1,
+        "img":"https://ak1.ostkcdn.com/img/mxc/07112022_7_Wood_Platform_Beds.jpg?imwidth=1920",
+        "head":"Wood Platform Beds",
+        "para":"Treat your Bedroom to high Style with a low profile"
+    },
+    {
+        "id":2,
+        "img":"https://ak1.ostkcdn.com/img/mxc/07112022_6_Swivel_Living_Room_Chairs.jpg?imwidth=1920",
+        "head":"Sviwel Living Room Chair",
+        "para":"Shop turning chairs that put a fresh look on any living room"
+    },
+    {
+        "id":3,
+        "img":"https://ak1.ostkcdn.com/img/mxc/07112022_2_Storage_Sofas.jpg?imwidth=1920",
+        "head":"Storage Sofas",
+        "para":"Get organised with storage that it's stylish as it is comfortable"
+    },
+    {
+        "id":4,
+        "img":"https://ak1.ostkcdn.com/img/mxc/07112022_5_Blackout_Curtains.jpg?imwidth=1920",
+        "head":"Blackout Curtains",
+        "para":"Enjoy that home theatre experience no matter what time of day it is"
+    },
+    {
+        "id":5,
+        "img":"https://ak1.ostkcdn.com/img/mxc/07112022_1_Outdoor_Bistro_Sets.jpg?imwidth=1920",
+        "head":"Outdoor Bistro Set",
+        "para":"Entertain all fresco"
+    },
+    {
+        "id":6,
+        "img":"https://ak1.ostkcdn.com/img/mxc/07112022_3_Boho_Outdoor_Rugs.jpg?imwidth=1920",
+        "head":"Boho Outdoor Rugs",
+        "para":"Roll out your free spirited side"
+    },
+    {
+        "id":7,
+        "img":"https://ak1.ostkcdn.com/img/mxc/07112022_8_Outdoor_Ceiling_Fans.jpg?imwidth=1920",
+        "head":"OutDoor Ceilin Fan",
+        "para":"Cool off with stylish fan"
+    },
+    {
+        "id":8,
+        "img":"https://ak1.ostkcdn.com/img/mxc/07112022_4_Expandable_Dining_Room_Sets.jpg?imwidth=1920",
+        "head":"Expandable dining room",
+        "para":"Tuck into dining tables and chairs that always has room for one more"
+    }
+
+]

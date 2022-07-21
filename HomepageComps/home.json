@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "img":"https://ak1.ostkcdn.com/img/mxc/07132022_HB_DOMESTIC_1.svg?imwidth=1920",
+        "head":"Select Rugs"
+    },
+    {
+        "id":2,
+        "img":"https://ak1.ostkcdn.com/img/mxc/07132022_HB_INTL_2.svg?imwidth=1920",
+        "head":"Select Patio Furniture"
+    },
+    {
+        "id":3,
+        "img":"https://ak1.ostkcdn.com/img/mxc/07132022_HB_DOMESTIC_3_v2.svg?imwidth=1920",
+        "head":"Select Living Room Furniture"
+    },
+    {
+        "id":4,
+        "img":"https://ak1.ostkcdn.com/img/mxc/07132022_HB_INTL_4.svg?imwidth=1920",
+        "head":"Select Bedding"
+    },
+    {
+        "id":5,
+        "img":"https://ak1.ostkcdn.com/img/mxc/07132022_HB_INTL_6.svg?imwidth=1920",
+        "head":"Select Home Decor"
+    },
+    {
+        "id":6,
+        "img":"https://ak1.ostkcdn.com/img/mxc/07182022_HB_DOMESTIC_6.svg?imwidth=1920",
+        "head":"Select Bedroom Furniture"
+    }
+]

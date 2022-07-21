@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "img":"https://ak1.ostkcdn.com/img/mxc/11192021-CatSilo-Furniture.png?imwidth=1920",
+        "head":"Furniture"
+    },
+    {
+        "id":2,
+        "img":"https://ak1.ostkcdn.com/img/mxc/11152021-CatSilo-AreaRugs.png?imwidth=1920",
+        "head":"Area Rugs"
+    },
+    {
+        "id":3,
+        "img":"https://ak1.ostkcdn.com/img/mxc/11152021-CatSilo-BedBath.png?imwidth=1920",
+        "head":"Bedding"
+    },
+    {
+        "id":4,
+        "img":"https://ak1.ostkcdn.com/img/mxc/11152021-CatSilo-Decor.png?imwidth=1920",
+        "head":"Home Decor"
+    },
+    {
+        "id":5,
+        "img":"https://ak1.ostkcdn.com/img/mxc/CatSilo-Window-040721.jpg?imwidth=1920",
+        "head":"Window Treatments"
+    },
+    {
+        "id":6,
+        "img":"https://ak1.ostkcdn.com/img/mxc/11152021-CatSilo-Kitchen.png?imwidth=1920",
+        "head":"Kitchen"
+    },
+    {
+        "id":7,
+        "img":"https://ak1.ostkcdn.com/img/mxc/11192021-CatSilo-Outdoor.png?imwidth=1920",
+        "head":"Outdoor"
+    },
+    {
+        "id":8,
+        "img":"https://ak1.ostkcdn.com/img/mxc/01112021-CatSilo-HomeImp.jpg?imwidth=1920",
+        "head":"Home Improvement"
+    },
+    {
+        "id":9,
+        "img":"https://ak1.ostkcdn.com/img/mxc/11152021-CatSilo-Storage.png?imwidth=1920",
+        "head":"Storage"
+    },
+    {
+        "id":10,
+        "img":"https://ak1.ostkcdn.com/img/mxc/01112021-CatSilo-Mattresses.jpg?imwidth=1920",
+        "head":"Mattress"
+    },
+    {
+        "id":11,
+        "img":"https://ak1.ostkcdn.com/img/mxc/11152021-CatSilo-Lighting.png?imwidth=1920",
+        "head":"Lighting"
+    },
+    {
+        "id":12,
+        "img":"https://ak1.ostkcdn.com/img/mxc/CatSilo-AllDeals-040721.jpg?imwidth=1920",
+        "head":"Shop All Deals"
+    }
+]

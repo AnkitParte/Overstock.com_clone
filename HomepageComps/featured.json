@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "img":"https://ak1.ostkcdn.com/img/mxc/C-Mod_HP_C_Mod_27037529.jpg?imwidth=1920",
+        "off":"EXTRA 25% OFF",
+        "head":"Select Artistic Rugs",
+        "para":"by Weaver & More"
+    },
+    {
+        "id":2,
+        "img":"https://ak1.ostkcdn.com/img/mxc/HP_C_Mod_30806359.jpg?imwidth=1920",
+        "off":"EXTRA 15% OFF",
+        "head":"Select furniture by",
+        "para":"MiddleBrooks Designs"
+    },
+    {
+        "id":3,
+        "img":"https://ak1.ostkcdn.com/img/mxc/C-Mod_HP_C_Mod_39032511.jpg?imwidth=1920",
+        "off":"EXTRA 15% OFF",
+        "head":"Select Mattress",
+        "para":"By Sealy"
+    },
+    {
+        "id":4,
+        "img":"https://ak1.ostkcdn.com/img/mxc/C-Mod_HP_C_Mod_27417542.jpg?imwidth=1920",
+        "off":"SAVE ON",
+        "head":"Select Home furniture",
+        "para":"Bush Goods"
+    }
+]
