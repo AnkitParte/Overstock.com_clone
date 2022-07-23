@@ -1,5 +1,7 @@
 # vigorous-egg-1890
 a react app
 
-This is a clone of a platform named OverStock.com which provides
-buying and selling of furniture and all home decor.
+This Project is clone of a Platform named "Overstock.com"
+where anyone can buy ,any kind of furniture and can decor 
+their Home interiors.
+
