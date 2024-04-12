@@ -18,7 +18,7 @@ export default function Navbar(){
     console.log(state)    
 
     return(<>
-        <Box pos={"fixed"} zIndex={2} background="white">
+        <Box pos={"fixed"} zIndex={2} background="white" width={'100%'}>
             <HStack gap="19px" pt="1rem" pl="2.5rem" pr="2rem" pb="0.8rem" borderBottom="1px solid #EAEAEA">
                 <NavLink to="/">
                 <Image
@@ -42,7 +42,8 @@ export default function Navbar(){
                     borderTopRightRadius="5px"
                     >{<IoIosSearch style={{fontSize:"27px",fontWeight:"bold"}} />}</Text></NavLink>
                 </Flex>
-                <Box >
+                <Flex justifyContent={'end'} gap={5} width={'20%'}>
+                <Box>
                     <NavLink to="/accounts">
                         <Text ml="10px">{<BsPerson style={{fontSize:"23px"}}/>}</Text>
                         <Text fontSize={"13px"}>Account</Text>
@@ -70,6 +71,7 @@ export default function Navbar(){
                         >{x}</Text>
                     <Text fontSize={"13px"} mt="3px" mb="1px">Cart</Text>
                 </Box></NavLink>
+                </Flex>
             </HStack>
             
             <HStack gap="10px" pl="1rem" pr="1rem" pt="0.5rem" pb="0.5rem" justify={"space-between"} borderBottom="1px solid #EAEAEA">
