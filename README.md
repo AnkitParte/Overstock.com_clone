@@ -8,5 +8,5 @@ their Home interiors.
 started at July - 19
 completed at July - 23
 
-please give a visit to this clone : "https://zippy-horse-87889b.netlify.app/"
+please give a visit to this clone : "https://overstock-clone-ap.netlify.app/"
 
